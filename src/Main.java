@@ -22,7 +22,5 @@ public class Main {
                 ((Jedi) character).meditate();
             }
         }
-
-
     }
 }
